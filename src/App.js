@@ -48,5 +48,3 @@ export default function App() {
 }
 const rootElement = document.getElementById("root");
 ReactDom.render(<App />, rootElement);
-
-/*helen yau search bar*/
